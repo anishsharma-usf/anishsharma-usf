@@ -12,8 +12,7 @@ technical skillset.
 -   Major: Accounting
 -   Minor: Risk Management
 -   Career Interests: Data analysis, financial modeling, ensuring
-    compliance, and analyzing risks and modifying them to reduce the
-    severity and impact.
+    compliance, and risk analysis and modification.
 
 ## Career Goals
 
